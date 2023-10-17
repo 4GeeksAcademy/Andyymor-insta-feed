@@ -3,3 +3,43 @@
     color:white;
 }
 
+/* .btn-success{
+    margin-right: -100px;
+    margin-left: 350px;
+} */
+
+
+
+/* .dropdown-toggle,.dropdown-menu{
+    margin-right: 20px;
+} */
+
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.icons_btn{
+    margin-left: 10px;
+}
+
+ .card{
+   margin: 100px;
+
+ } 
+
+ .card-img{
+    margin-bottom: 10px;
+    
+ }
+
+ textarea {
+    text-shadow: 100dvh;
+ }
+  span{
+    margin-left: 165px;
+  }
+ 
